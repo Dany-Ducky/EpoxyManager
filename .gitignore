@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+# 如果不希望上傳自己的配方數據庫：
+recipe_database.csv
+epoxy_db.csv
