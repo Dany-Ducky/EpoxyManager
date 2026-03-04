@@ -78,15 +78,7 @@ This project follows [Semantic Versioning](https://semver.org/):
 
 ## Unreleased
 
-### Planned Features
-- [ ] 數據視覺化圖表 (Data visualization charts)
-- [ ] 配方比對功能 (Recipe comparison feature)
-- [ ] 批量匯入/匯出 (Batch import/export)
-- [ ] 配方模板系統 (Recipe template system)
-- [ ] 進階搜尋與篩選 (Advanced search and filtering)
-- [ ] 使用者權限管理 (User permission management)
-- [ ] 雲端同步功能 (Cloud synchronization)
-- [ ] 行動應用版本 (Mobile app version)
+
 
 ### Known Issues
 - 大量數據時可能出現性能問題 (Performance issues with large datasets)
