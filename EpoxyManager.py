@@ -1,8 +1,3 @@
-"""
-環氧樹脂工作站 V4.1.1
-整合式扁平配方數據庫架構 (recipe_database.csv)
-類別: DataManager / CalcTab / DatabaseTab / RecipeTab / EpoxyApp
-"""
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
 import csv, os, datetime, json
