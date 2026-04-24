@@ -1,0 +1,63 @@
+# ═══════════════════════════════════════════════════════════
+# 🚫 User data files (auto-generated at runtime)
+#    These contain YOUR formulations - never commit!
+# ═══════════════════════════════════════════════════════════
+epoxy_db.csv
+recipe_database.csv
+custom_properties.csv
+user_prop_definitions.csv
+
+# ═══════════════════════════════════════════════════════════
+# 🚫 UI state & user preferences
+# ═══════════════════════════════════════════════════════════
+lang_config.json
+epoxy_prefs.json
+custom_categories.json
+custom_mat_cats.json
+mat_col_config.json
+
+# ═══════════════════════════════════════════════════════════
+# 🐍 Python
+# ═══════════════════════════════════════════════════════════
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.pytest_cache/
+.coverage
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# ═══════════════════════════════════════════════════════════
+# 🛠 IDE / Editor
+# ═══════════════════════════════════════════════════════════
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ═══════════════════════════════════════════════════════════
+# 💻 OS
+# ═══════════════════════════════════════════════════════════
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ═══════════════════════════════════════════════════════════
+# 📝 Debug / Temporary
+# ═══════════════════════════════════════════════════════════
+*.log
+*.tmp
+epoxy_lang_debug.log
